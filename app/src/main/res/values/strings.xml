@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Klasifikasi Kualitas Biji Kopi</string>
+
+    <string name="desk">
+        Aplikasi ini merupakan aplikasi yang berfungsi untuk membedakan kualitas biji kopi yang baik dan buruk
+    </string>
+</resources>
